@@ -1,0 +1,47 @@
+header {
+  padding-block: 32px;
+  font: var(--text-md);
+}
+
+header .container {
+  display: flex;
+  justify-content: space-between;
+}
+
+#profile {
+  display: flex;
+  gap: 32px;
+}
+
+#profile h1 {
+  font: var(--text-lg);
+  color: var(--text-color-primary);
+  margin-bottom: 8px;
+}
+
+/* Verificar se não há redundâncias entre os itens abaixo */
+
+.bio-wrapper {
+  display: flex; 
+  align-items: flex-start;
+  gap: 400px; /* Espaço entre o texto e a lista */
+
+}
+
+/* Novas inclusões */
+
+#info {
+  list-style: none; 
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  width: 280px;
+  min-width: 160px;        /* ADICIONEI DEPOIS */
+}
+
+#info li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
