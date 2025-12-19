@@ -26,10 +26,14 @@ header .container {
   margin-bottom: 8px;
 }
 
+#profile p {
+  width: 384px;
+}
+
 .bio-wrapper {
   display: flex; 
   align-items: flex-start;
-  gap: 400px; /* Espaço entre o texto e a lista */
+  gap: 400px;
 
 }
 
