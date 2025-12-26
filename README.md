@@ -23,7 +23,7 @@ O **Travelgram** é uma página de perfil de rede social focada em fotografia de
 ### 🛠️ Funcionalidades e Ajustes
 * **Layout Responsivo**: Ajustes de `flex-shrink` para evitar distorção de imagens em telas menores.
 * **Tipografia**: Hierarquia visual clara entre títulos, bio e informações de localização.
-* **Galeria**: Grade de fotos organizada com espaçamento uniforme via `gap`.
+* **Galeria**: Flexbox de fotos organizada com espaçamento uniforme via `gap`.
 
 ---
 
@@ -47,7 +47,7 @@ O **Travelgram** é uma página de perfil de rede social focada em fotografia de
 ### 🛠️ Features and Fixes
 * **Responsive Layout**: `flex-shrink` adjustments to prevent image distortion on smaller screens.
 * **Typography**: Clear visual hierarchy between titles, bio, and metadata.
-* **Gallery**: Organized photo grid with consistent spacing using `gap`.
+* **Gallery**: Organized photo flexbox with consistent spacing using `gap`.
 
 ---
 Desenvolvido por [Victor Martins](https://github.com/VictorMartinsD).
