@@ -1,7 +1,11 @@
 # ✈️ Travelgram - Perfil de Viagens
 
-> [!TIP]
-> **Deploy oficial:** [Acesse o projeto aqui](https://victormartinsd.github.io/projeto-travelgram/)
+O **Travelgram** é uma página de perfil de rede social focada em fotografia de viagens. O objetivo principal deste projeto foi consolidar conhecimentos em **HTML5 Semântico** e **CSS3**, trabalhando com o conceito de `box model`, variáveis CSS, importação de fontes externas e layouts flexíveis.
+
+## 🔗 Links do Projeto
+
+[![Visualizar Projeto](https://img.shields.io/badge/Acessar%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/projeto-travelgram/)
+[![Figma Design](https://img.shields.io/badge/Figma-Design%20Original-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/fMXjE3XuxdFmfrtfN28RHY/Perfil-de-viagens--Community-?node-id=3-376&p=f&t=8ZL0ZHxNWlsB2uUs-0)
 
 ## 📸 Preview do Projeto
 
@@ -12,9 +16,7 @@ Abaixo você pode ver o design final da página do Travelgram, com o perfil da u
 ---
 
 ## 📝 Sobre o Projeto
-O **Travelgram** é uma página de perfil de rede social focada em fotografia de viagens. O objetivo principal deste projeto foi consolidar conhecimentos em **HTML5 Semântico** e **CSS3**, trabalhando com o conceito de `box model`, variáveis CSS, importação de fontes externas e layouts flexíveis.
-
-### 🚀 Tecnologias Utilizadas
+Este projeto focou na aplicação prática de:
 * **HTML5**: Estrutura semântica (header, main, nav, footer).
 * **CSS3**: Uso de variáveis (`:root`), Flexbox para alinhamentos e resets globais.
 * **Google Fonts**: Utilização da fonte *Poppins*.
@@ -26,18 +28,25 @@ O **Travelgram** é uma página de perfil de rede social focada em fotografia de
 * **Galeria**: Flexbox de fotos organizada com espaçamento uniforme via `gap`.
 
 ---
+Desenvolvido por [Victor Martins](https://github.com/VictorMartinsD) como parte do programa de formação **[Full-Stack/Rocketseat]**.
+
+---
+---
 
 ## 🌎 English Version
 
-> [!TIP]
-> **Deploy:** [Access the project here](https://victormartinsd.github.io/projeto-travelgram/)
+### ✈️ Travelgram - Travel Profile
+**Travelgram** is a social media profile page focused on travel photography. The main goal of this project was to strengthen knowledge in **Semantic HTML5** and **CSS3**, working with `box model` concepts, CSS variables, external font imports, and flexible layouts.
+
+## 🔗 Project Links
+
+[![View Project](https://img.shields.io/badge/Access%20Deploy-Github%20Pages-blue?style=for-the-badge)](https://victormartinsd.github.io/projeto-travelgram/)
+[![Figma Design](https://img.shields.io/badge/Figma-Original%20Design-orange?style=for-the-badge&logo=figma)](https://www.figma.com/design/fMXjE3XuxdFmfrtfN28RHY/Perfil-de-viagens--Community-?node-id=3-376&p=f&t=8ZL0ZHxNWlsB2uUs-0)
 
 ## 📸 Project Preview
 *(See images in the section above)*
 
 ## 📝 About the Project
-**Travelgram** is a social media profile page focused on travel photography. The main goal of this project was to strengthen knowledge in **Semantic HTML5** and **CSS3**, working with `box model` concepts, CSS variables, external font imports, and flexible layouts.
-
 ### 🚀 Technologies
 * **HTML5**: Semantic structure.
 * **CSS3**: Custom properties (variables), Flexbox alignment, and global resets.
@@ -50,4 +59,4 @@ O **Travelgram** é uma página de perfil de rede social focada em fotografia de
 * **Gallery**: Organized photo flexbox with consistent spacing using `gap`.
 
 ---
-Desenvolvido por [Victor Martins](https://github.com/VictorMartinsD).
+Developed by [Victor Martins](https://github.com/VictorMartinsD) as part of the **[Full-Stack/Rocketseat]** training program.
